@@ -331,6 +331,7 @@ services:
     volumes:
       - ./out:/out
       - ./calculate:/src
+      - ./docs:/docs
 ```
 С помощью команды: 
 
